@@ -12,3 +12,4 @@ Payroll Staff — gets a menu to process payroll for one employee or all employe
 Employee — goes directly into their own view, to check their own payroll records.
 Pay periods — each month is split into two cutoffs: the 1st–15th and the 16th–end of month. Net pay is only finalized on the second cutoff, when all deductions are applied against the combined gross of both halves.
 In short: load data → log in → calculate pay → display results.
+Project Plan: https://docs.google.com/spreadsheets/d/1QZghwB-bA4F_zTrohIkMIPYUIpolpnd301It1OobEqU/edit?usp=sharing
