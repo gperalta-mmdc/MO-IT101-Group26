@@ -54,7 +54,7 @@ public class PayrollStaffView {
     }
 
     private void viewAllEmployees() {
-        // Sort by employee ID for consistent ordering
+        
         List<Employee> sorted = new ArrayList<>(employees.values());
         sorted.sort(Comparator.comparing(Employee::getEmployeeID));
 
